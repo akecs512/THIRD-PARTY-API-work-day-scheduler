@@ -2,7 +2,7 @@
 $("#currentDay").html(dayjs().format("dddd MM/DD/YYYY HH:mm a"))
 var currentHour = dayjs().hour()
 var startHour = 9
-var endHour = 23
+var endHour = 18
 var timeArray = []
 
 $(document).on("click", ".saveBtn", function (event) {
