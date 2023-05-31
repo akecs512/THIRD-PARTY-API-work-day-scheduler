@@ -8,6 +8,9 @@ Scroll down for color coded hourly time blocks. Grey indicates the past, red is 
 
 ## Deployed URL
 
+https://akecs512.github.io/Work-Day-Scheduler/
+
+## Screenshots
 
 
 <img width="1403" alt="Screen Shot 2023-05-30 at 6 26 21 PM" src="https://github.com/akecs512/Work-Day-Scheduler/assets/79340489/db5c2d86-8aff-480e-89fd-04da466baf22">
