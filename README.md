@@ -8,7 +8,7 @@ Scroll down for color coded hourly time blocks. Grey indicates the past, red is 
 
 ## Deployed URL
 
-https://akecs512.github.io/Work-Day-Scheduler/
+[https://akecs512.github.io/Work-Day-Scheduler/](https://akecs512.github.io/THIRD-PARTY-API-work-day-scheduler/)
 
 ## Screenshots
 
