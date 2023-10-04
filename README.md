@@ -12,6 +12,8 @@ Scroll down for color coded hourly time blocks. Grey indicates the past, red is 
 
 ## Screenshots
 
+<img width="1394" alt="Screen Shot 2023-10-04 at 5 03 19 PM" src="https://github.com/akecs512/THIRD-PARTY-API-work-day-scheduler/assets/79340489/3592a212-dc1b-44d0-8cc7-6cb5e4fbb1fc">
+<img width="1349" alt="Screen Shot 2023-10-04 at 5 05 21 PM" src="https://github.com/akecs512/THIRD-PARTY-API-work-day-scheduler/assets/79340489/bd9dd449-2bc0-4c16-bbba-64cc0af400ce">
 
-<img width="1403" alt="Screen Shot 2023-05-30 at 6 26 21 PM" src="https://github.com/akecs512/Work-Day-Scheduler/assets/79340489/db5c2d86-8aff-480e-89fd-04da466baf22">
-<img width="1398" alt="Screen Shot 2023-05-30 at 6 26 58 PM" src="https://github.com/akecs512/Work-Day-Scheduler/assets/79340489/c679d619-3ae2-43d7-b66b-03435fb47a5c">
+## Technology Used
+HTML, CSS, jQuery, JaveScript, and Day.js
